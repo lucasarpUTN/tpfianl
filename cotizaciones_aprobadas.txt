@@ -1,0 +1,6 @@
+usa | sharpei | a | 3300.00 USD | 0.00 ARS
+fds | fgdgf | a | 1750.00 USD | 0.00 ARS
+paris | pepe | t | 80.00 USD | 115080.00 ARS
+japom | pep | a | 100300.00 USD | 144281552.00 ARS
+brasil | bulldog | a | 200.00 USD | 287700.00 ARS
+brasil | Bulldog | t | 500.00 USD | 719250.00 ARS
